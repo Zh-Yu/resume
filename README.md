@@ -13,7 +13,7 @@
 - 熟悉elementUI，iview等前端ui框架；
 - 熟练使用chrome，whistle，charles，postman，yapi等常用调试工具；
 - 熟悉Webpack打包过程，熟悉配置项，可独立完成部署流程；
-- 熟悉ES6语法, 了解typeScript语法
+- 熟悉ES6语法, 了解TypeScript语法
 - 了解Koa的工作原理和中间件的简单实现，搭配KoaRouter完成过简单的后端实现；
 
 
